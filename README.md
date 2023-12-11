@@ -52,5 +52,5 @@ To run the project locally, follow these steps:
 
 ## Contributing
 
-If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
+If you'd like to contribute to this project, please follow the [Contributing Guidelines](guidelines.md).
 
