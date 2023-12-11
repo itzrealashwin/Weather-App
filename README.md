@@ -1,6 +1,4 @@
-Certainly! Below is the complete README.md file incorporating the statements and instructions:
 
-```markdown
 # Weather App
 
 ## Description
@@ -56,9 +54,3 @@ To run the project locally, follow these steps:
 
 If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Make sure to replace the placeholder text such as "Weather App," "your-username," and "weather-app" with the actual details of your project. Include any additional details or instructions that may be relevant to your specific project.
