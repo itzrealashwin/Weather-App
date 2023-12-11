@@ -15,7 +15,7 @@ window.addEventListener("mousemove", (e)=>{
 
 let searchBtn = document.querySelector(".search button");
 let searchBox = document.querySelector(".search input");
-const apiKey = "54b7e91cf65a305c937485e6a13e63ea"
+const apiKey = "use your API key"
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 const weatherIcon = document.querySelector(".weather-icon");
 
